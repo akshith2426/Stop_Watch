@@ -57,36 +57,3 @@ body {
 	font-weight: 600;
 	font-family: 'Signika', sans-serif;
 }
-/* .timer_clock {
-	margin: 10%;
-	border: 5px solid black;
-}
-#display_value {
-	margin-left: 5%;
-	margin-top: 10%;
-	align-items: center;
-	display: inline-block;
-	padding: 3%;
-	padding-top: 7%;
-	padding-bottom: 7%;
-	border-radius: 60%;
-	border: 3px solid black;
-	font-size: 3em;
-}
-a {
-	border-radius: 50%;
-	border: 5px solid brown;
-	padding: 1.5%;
-	align-items: center;
-	display: inline-block;
-	margin-bottom: 3%;
-}
-#start {
-	margin-left: 4%;
-	margin-top: 2%;
-	margin-right: 0.5%;
-}
-#stop,
-#Reset {
-	margin-right: 0.5%;
-} */
