@@ -45,6 +45,7 @@ body {
 	color: #615e5e;
 	cursor: pointer;
 	transition: 0.3s;
+	text-decoration: none;
 }
 #lap {
 	font-weight: 900;
