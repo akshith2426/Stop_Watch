@@ -44,7 +44,7 @@ function stopWatch() {
 //function to start and stop the watch
 start.addEventListener('click', function Start_Stop() {
 	if (status === 'started') {
-		interval = window.setInterval(stopWatch, 100);
+		interval = window.setInterval(stopWatch, 1000);
 		status = 'stopped';
 	}
 });
