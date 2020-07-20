@@ -1,7 +1,17 @@
 body {
+	background: #91f5eb;
+}
+h1 {
+	color: #474141;
+	align-items: center;
+	justify-content: center;
+	font-weight: 900;
+	margin-left: 45%;
+}
+.header {
 	margin: 0;
 	padding: 0;
-	height: 100vh;
+	height: 95vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
